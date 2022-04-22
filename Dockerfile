@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:18.0.0-alpine
 
 LABEL maintainer "Richard Huang flyerhzm@gmail.com"
 
